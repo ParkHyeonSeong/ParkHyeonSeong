@@ -54,10 +54,11 @@
 <br>
 
 <h3 align="center">🛠 Github History 🛠</h3>
+<br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonseong&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonseong&layout=compact)
 
-  ![parkhyeonseong's github stats](https://github-readme-stats.vercel.app/api?username=parkhyeonseong&show_icons=true&theme=dark)]
+![parkhyeonseong's github stats](https://github-readme-stats.vercel.app/api?username=parkhyeonseong&show_icons=true&theme=dark)]
 
 
 

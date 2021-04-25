@@ -48,15 +48,17 @@
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParkHyeonSeong%2FParkHyeonSeong&count_bg=%235F3DC8&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
 
-<p align="center">
-  
+<br>
+
+<h3 align="center">🛠 Github History 🛠</h3>
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyeonseong&layout=compact)
 
   ![parkhyeonseong's github stats](https://github-readme-stats.vercel.app/api?username=parkhyeonseong&show_icons=true&theme=dark)]
 
-</p>
 
 
 <!--
